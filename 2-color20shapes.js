@@ -42,5 +42,4 @@ noStroke(); // Don't draw a stroke around shapes
 
         rect(rects[i].x, rects[i].y, 20,20);
       }
-      
   }
